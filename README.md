@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Anita Rostami</h1>
 <h3 align="center">AI Engineer | EMG Signal Processing | Machine Learning Researcher</h3>
 
 <p align="center">
