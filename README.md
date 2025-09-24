@@ -16,7 +16,10 @@
 ### 🌐 Connect With Me
 <p align="left">
 <a href="https://kaggle.com/anitarostami" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
+<img src="https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="kaggle logo"   />
+</a>
+<a href="mailto:anita13710@gmail.com" target="_blank">
+<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"   />
 </a>
 </p>
 
