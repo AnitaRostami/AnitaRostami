@@ -56,12 +56,9 @@
 ---
 
 ### 📊 GitHub Stats
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anitarostami&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
 
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=anitarostami&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
+![](https://nirzak-streak-stats.vercel.app/?user=AnitaRostami&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=AnitaRostami&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnitaRostami&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
