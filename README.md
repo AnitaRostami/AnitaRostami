@@ -1,3 +1,8 @@
+
+<p align="center">
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+</p>
+
 <h3 align="center">AI Engineer | Machine Learning Researcher</h3>
 
 <p align="center">
